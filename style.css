@@ -1,0 +1,21 @@
+#titlebox {
+  width: 1000px;
+}
+
+#title {
+  width: 500px;
+  position: relative;
+  top: 50px;
+  margin: auto;
+}
+
+#tooltip {
+  position: absolute;
+  top: 800px;
+  width: auto;
+  height: 20px;
+  background-color: #618685;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+}
